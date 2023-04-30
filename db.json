@@ -5,7 +5,7 @@
             "title":"Modernize ATM UI and Services",
             "summaryList":[
                 "A responsive UI launched on embedded-chrome and offering live 2-way video and deposit imaging. The system was integrated with a custom hardware interaction state-machine middleware and backend services such as mainframe authentication, live transaction reports, and real-time individual hardware status monitoring per ATM. Fleet monitoring and live-deploy capabilities could be performed through a remote responsive administrator UI.",
-                "https://patents.google.com/patent/US20200005263A1/en, US PATENT Filing"
+                "https://patents.google.com/patent/US20200005263A1/en,US PATENT Filing https://patents.google.com/patent/US20200005263A1/en"
             ],
             "linkToBuild": "",
             "technologies": [
