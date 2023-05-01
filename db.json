@@ -4,7 +4,7 @@
             "logoUrl":"https://www.virginiabusiness.com/wp-content/uploads/2019/10/BANK_BoA_cardless_ATM.png",
             "title":"New Generation ATM",
             "summaryList":[
-                "A responsive UI launched on embedded-chrome and offering live 2-way video and deposit imaging. The system was integrated with a custom hardware interaction state-machine middleware and backend services such as mainframe authentication, live transaction reports, and real-time individual hardware status monitoring per ATM. Fleet monitoring and live-deploy capabilities could be performed through a remote responsive administrator UI",
+                "A responsive UI launched on embedded-chrome and offering live 2-way video and deposit imaging. The system was integrated with a custom hardware interaction state-machine, middleware translation and backend services that responsible for mainframe authentication, live transaction reports, and real-time individual hardware status monitoring per ATM. Fleet monitoring and live-deploy capabilities could be performed through a remote responsive administrator UI",
                 "",
                 "https://patents.google.com/patent/US20200005263A1/en,Click here US PATENT Filing"
             ],
@@ -75,8 +75,7 @@
                 { "title":"Git","logoUrl":"https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" },
                 { "title":"Nginx","logoUrl":"https://www.vectorlogo.zone/logos/nginx/nginx-ar21.svg" },
                 { "title":"Docker","logoUrl":"https://www.vectorlogo.zone/logos/docker/docker-icon.svg" },
-                { "title":"Kubernetes","logoUrl":"https://www.vectorlogo.zone/logos/kubernetes/kubernetes-icon.svg" },
-                { "title":"Ansible","logoUrl":"https://www.vectorlogo.zone/logos/ansible/ansible-icon.svg" }
+                { "title":"Kubernetes","logoUrl":"https://www.vectorlogo.zone/logos/kubernetes/kubernetes-icon.svg" }
             ]
         }
     ],  
