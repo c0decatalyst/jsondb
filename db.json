@@ -82,6 +82,10 @@
     ],  
     "socials": [
         {
+            "url":"https://www.github.com/c0decatalyst",
+            "title":"Github"
+        },        
+        {
             "url":"https://www.linkedin.com/magdyismail",
             "title":"Linkedin"
         }
