@@ -2,11 +2,11 @@
     "projects": [
         {
             "logoUrl":"https://www.virginiabusiness.com/wp-content/uploads/2019/10/BANK_BoA_cardless_ATM.png",
-            "title":"Modernize ATM UI and Services",
+            "title":"New Generation ATM",
             "summaryList":[
-                "A responsive UI launched on embedded-chrome and offering live 2-way video and deposit imaging. The system was integrated with a custom hardware interaction state-machine middleware and backend services such as mainframe authentication, live transaction reports, and real-time individual hardware status monitoring per ATM. Fleet monitoring and live-deploy capabilities could be performed through a remote responsive administrator UI.",
+                "A responsive UI launched on embedded-chrome and offering live 2-way video and deposit imaging. The system was integrated with a custom hardware interaction state-machine middleware and backend services such as mainframe authentication, live transaction reports, and real-time individual hardware status monitoring per ATM. Fleet monitoring and live-deploy capabilities could be performed through a remote responsive administrator UI",
                 "",
-                "https://patents.google.com/patent/US20200005263A1/en,Click for US PATENT Filing"
+                "https://patents.google.com/patent/US20200005263A1/en,Click here US PATENT Filing"
             ],
             "linkToBuild": "",
             "technologies": [
@@ -20,39 +20,12 @@
             ]
         },
         {
-            "logoUrl":"https://www.vectorlogo.zone/logos/onepoint-projects/onepoint-projects-ar21.svg",
-            "title":"Financial Center POS device integration",
-            "summaryList":[
-                "Developed a POC to use in banking centers that would enable the POS devices to be controlled via a Javascript UI and reporting to backend java services using the spring framework."
-            ],
-            "linkToBuild": "",
-            "technologies": [
-                { "title":"Java","logoUrl":"https://www.vectorlogo.zone/logos/java/java-vertical.svg" },
-                { "title":"JavaScript","logoUrl":"https://www.vectorlogo.zone/logos/javascript/javascript-icon.svg" },
-                { "title":"Spring","logoUrl":"https://www.vectorlogo.zone/logos/springio/springio-icon.svg" }
-            ]
-        },
-        {
-            "logoUrl":"https://www.vectorlogo.zone/logos/onepoint-projects/onepoint-projects-ar21.svg",
-            "title":"E-commerce Website",
-            "summaryList":[
-                "A skincare ecommerce shop built and designed in woocommerce and embedded react. "
-            ],
-            "linkToBuild": "",
-            "technologies": [
-                { "title":"WooCommerce","logoUrl":"https://www.vectorlogo.zone/logos/wordpress/wordpress-icon.svg" },
-                { "title":"JavaScript","logoUrl":"https://www.vectorlogo.zone/logos/javascript/javascript-icon.svg" },
-                { "title":"ReactJS","logoUrl":"https://www.vectorlogo.zone/logos/reactjs/reactjs-icon.svg" },
-                { "title":"MariaDB","logoUrl":"https://www.vectorlogo.zone/logos/mariadb/mariadb-ar21.svg" }
-            ]
-        },
-        {
             "logoUrl":"https://shatainsurance.com/static/images/logo-header.png",
             "title":"Insurance Agency Website",
             "summaryList":[
                 "A business website to capture health and life insurance leads. The frontend is built with NextJS/ReactJS and bootstrap CSS. The backend utilizes a hosted express nodejs app."
             ],
-            "linkToBuild": "",
+            "linkToBuild": "https://shatainsurance.com",
             "technologies": [
                 { "title":"JavaScript","logoUrl":"https://www.vectorlogo.zone/logos/javascript/javascript-icon.svg" },
                 { "title":"ReactJS","logoUrl":"https://www.vectorlogo.zone/logos/reactjs/reactjs-icon.svg" },
@@ -62,10 +35,38 @@
             ]
         },
         {
+            "logoUrl":"https://www.abbeylondonwalker.com/wp-content/uploads/2022/08/2-234x71.png",
+            "title":"E-commerce Website",
+            "summaryList":[
+                "A skincare ecommerce shop built and designed in woocommerce with python and javascript."
+            ],
+            "linkToBuild": "https://www.abbeylondonwalker.com",
+            "technologies": [
+                { "title":"WooCommerce","logoUrl":"https://www.vectorlogo.zone/logos/wordpress/wordpress-icon.svg" },
+                { "title":"JavaScript","logoUrl":"https://www.vectorlogo.zone/logos/javascript/javascript-icon.svg" },
+                { "title":"Python","logoUrl":"https://www.vectorlogo.zone/logos/python/python-horizontal.svg" },
+                { "title":"MariaDB","logoUrl":"https://www.vectorlogo.zone/logos/mariadb/mariadb-ar21.svg" }
+            ]
+        },
+        {
+            "logoUrl":"https://cannative.co/wp-content/uploads/2021/05/Cannative-Whitout-BG-2-1536x1536.png.webp",
+            "title":"E-commerce Website",
+            "summaryList":[
+                "A cannabis ecommerce shop built and designed in woocommerce with python and javascript."
+            ],
+            "linkToBuild": "https://www.cannative.co",
+            "technologies": [
+                { "title":"WooCommerce","logoUrl":"https://www.vectorlogo.zone/logos/wordpress/wordpress-icon.svg" },
+                { "title":"JavaScript","logoUrl":"https://www.vectorlogo.zone/logos/javascript/javascript-icon.svg" },
+                { "title":"Python","logoUrl":"https://www.vectorlogo.zone/logos/python/python-horizontal.svg" },
+                { "title":"MariaDB","logoUrl":"https://www.vectorlogo.zone/logos/mariadb/mariadb-ar21.svg" }
+            ]
+        },
+        {
             "logoUrl":"https://www.vectorlogo.zone/logos/onepoint-projects/onepoint-projects-ar21.svg",
             "title":"Web Agency",
             "summaryList":[
-                "A custom server for hosting all these projects!"
+                "A linux server for hosting all these projects!"
             ],
             "linkToBuild": "",
             "technologies": [
